@@ -1,5 +1,3 @@
-## 🎃H🎃A🎃P🎃P🎃Y🎃 🎃H🎃A🎃L🎃L🎃O🎃W🎃E🎃E🎃N🎃
-
 I'm Tommy, a software developer in Vancouver, BC, Canada!
 
 - 🕹️ Are you into the mechanical keyboard hobby? Try out a game I made for you:
